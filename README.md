@@ -8,7 +8,15 @@ I vibe-code the prototypes my strategy points to. Not specs, not mockups — the
 
 ## 🚑 Currently building
 
-**IntelDoc** — a three-surface AI MedTech product (patient app + clinician dashboard) for an endocrinology clinic pilot. 17 initiatives, 97 epics, React. AI agents handle the parsing, generation, and personalization; I'm in Claude Code every day.
+**[IntelDoc](https://github.com/EgorDranev/inteldoc)** — a three-surface AI MedTech product: patient mobile app + doctor & admin web on a FastAPI backend (OTP auth, OCR, audit, PII-blind access control), built for an endocrinology clinic pilot — 17 initiatives, 97 epics. AI agents handle parsing, generation, and personalization; I'm in Claude Code every day.
+`React · TypeScript · FastAPI · PostgreSQL · Docker` · public anonymized showcase
+
+## 🛠 Selected builds
+
+Public and shipped — each taken from idea to a working, deployed product, solo.
+
+- **[linkedin-post-organizer](https://github.com/EgorDranev/linkedin-post-organizer)** — a Chrome extension that captures LinkedIn posts on native Save, then Claude auto-tags, summarizes & themes them (with an offline no-key fallback). `Chrome MV3 · React · Vercel · Neon Postgres · Claude API` · [Live demo](https://linkedin-saver.vercel.app)
+- **[task-tracker](https://github.com/EgorDranev/task-tracker)** — turns meeting recordings into an owned Kanban board: Deepgram diarization + Groq (Llama 3.3 70B) extraction. `Next.js · TypeScript · Deepgram · Groq · Vercel` · [Live demo](https://inteldoc-tracker.vercel.app)
 
 ## How I work
 
